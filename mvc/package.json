@@ -1,0 +1,10 @@
+{
+    "name": "mvc-todo",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+      "start": "npx serve ."
+    },
+    "dependencies": {}
+  }
+  
